@@ -38,8 +38,7 @@
         return {
           english:'',
           german:'',
-          vietnam:'' // 3rd language
-
+          vietnam:''
         };
        }
      }
