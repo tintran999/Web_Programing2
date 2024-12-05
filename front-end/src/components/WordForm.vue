@@ -38,7 +38,7 @@
         return {
           english:'',
           german:'',
-          vietnam:'' // add 3rd language
+          vietnam:'' // 3rd language
 
         };
        }
